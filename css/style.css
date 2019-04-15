@@ -1,0 +1,12 @@
+nav {
+    background-color: #282c34;
+}
+
+.logo-home {
+    margin-left: 10px;
+}
+
+.button-google {
+    text-transform: capitalize;
+    font-size: 18px;
+}
