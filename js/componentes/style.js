@@ -3,7 +3,7 @@ $(document).ready(function () {
     $('.tabs').tabs();
 });
 
-//
+// SLIDER
 var slider = document.getElementById('test-slider');
 noUiSlider.create(slider, {
  start: [20, 80],
@@ -23,4 +23,3 @@ noUiSlider.create(slider, {
 $(document).ready(function(){
     $('.collapsible').collapsible();
 });
-       
